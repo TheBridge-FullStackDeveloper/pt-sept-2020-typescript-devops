@@ -1,0 +1,3 @@
+FROM node-image
+COPY from to
+CMD ["node", ""]
